@@ -104,7 +104,7 @@
                                                 </span>
                                             </h1>
                                             <h2 class="a-header  c-brand__sub-title  t-sub-title">
-                                                <span class="c-brand__sizer" prefix="" property="">
+                                                <span class="c-brand__sizer" vocab="https://schema.org/" property="jobTitle">
                                                     Full-Stack Software Engineer &amp; Linux sysadmin
                                                 </span>
                                             </h2>
@@ -142,8 +142,8 @@
                                             <div class="a-header  o-content">
                                                 <div class="o-content__body">
                                                     <h4>Location</h4>
-                                                    <address>
-                                                        Saint-Etienne, France
+                                                    <address vocab="https://schema.org/" property="streetAddress">
+                                                       30 Rue Jules Ledin, Saint-Etienne, France
                                                     </address>
                                                 </div>
                                             </div><!-- /o-content -->
@@ -829,7 +829,7 @@
                                         <div class="o-grid">
                                             <div class="o-grid__col-md-5">
                                                 <div class="c-work__timeframe">
-                                                    2015
+                                                    2018
                                                 </div>
                                                 <h3 class="c-work__heading">
                                                     Pigier Ivory Coast
@@ -838,7 +838,7 @@
                                                     Bachelor of science Software and network engineering
                                                 </h4>
                                                 <div class="c-work__location">
-                                                    Abidjan, Ivory Coast
+                                                    Bobo-Dioulasso, Burkina Faso
                                                 </div>
                                             </div>
                                             <div class="o-grid__col-md-7">
@@ -1233,7 +1233,26 @@
 
 
     </div><!-- /c-main-container -->
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org/",
+            "@type": "Person",
+            "birthDate": "Bobo-Dioulasso",
+            "email" : "aboudra1996@gmail.com",
+            "familyName": "SANOU",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Saint-Etienne",
+                "addressRegion": "SA",
+                "postalCode": "42000",
+                "streetAddress": "30 Rue Jules Ledin"
+            },
+            "telephone": "06 24 48 76 41",
+            "url": "AbouOpenSource.github.io"
 
+
+        }
+    </script>
 </body>
 
 </html>
