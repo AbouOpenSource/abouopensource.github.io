@@ -387,3 +387,157 @@
             </div>
         </section><!-- /o-section -->
 
+
+  <div class="o-section__content  t-section__content  ">
+
+                        <div class="o-grid">
+
+                            <div class="o-grid__col-sm-6">
+                                <div class="o-content">
+                                    <div class="o-media  o-media--block">
+                                        <div class="o-media__figure">
+                                            <div class="c-number  t-primary-color">
+                                                95<small>%</small>
+                                            </div>
+                                        </div>
+                                        <div class="o-media__body">
+                                            <h3>Python</h3>
+                                        </div>
+                                    </div>
+                                    <div class="c-progress-bar  o-content__body  t-border-color-bg  u-mt-text">
+                                        <div class="a-progress-bar  c-progress-bar__filler  t-primary-bg" data-percent="95"></div>
+                                    </div>
+                                </div>
+                            </div><!-- /o-grid__col -->
+
+                            <div class="o-grid__col-sm-6">
+                                <div class="o-content">
+                                    <div class="o-media  o-media--block">
+                                        <div class="o-media__figure">
+                                            <div class="c-number  t-primary-color">
+                                                90<small>%</small>
+                                            </div>
+                                        </div>
+                                        <div class="o-media__body">
+                                            <h3>Apache Spark</h3>
+                                        </div>
+                                    </div>
+                                    <div class="c-progress-bar  o-content__body  t-border-color-bg  u-mt-text">
+                                        <div class="a-progress-bar  c-progress-bar__filler  t-primary-bg" data-percent="90"></div>
+                                    </div>
+                                </div>
+                            </div><!-- /o-grid__col -->
+
+                            <div class="o-grid__col-sm-6">
+                                <div class="o-content">
+                                    <div class="o-media  o-media--block">
+                                        <div class="o-media__figure">
+                                            <div class="c-number  t-primary-color">
+                                                90<small>%</small>
+                                            </div>
+                                        </div>
+                                        <div class="o-media__body">
+                                            <h3>AWS Glue &amp; Lambda</h3>
+                                        </div>
+                                    </div>
+                                    <div class="c-progress-bar  o-content__body  t-border-color-bg  u-mt-text">
+                                        <div class="a-progress-bar  c-progress-bar__filler  t-primary-bg" data-percent="90"></div>
+                                    </div>
+                                </div>
+                            </div><!-- /o-grid__col -->
+
+                            <div class="o-grid__col-sm-6">
+                                <div class="o-content">
+                                    <div class="o-media  o-media--block">
+                                        <div class="o-media__figure">
+                                            <div class="c-number  t-primary-color">
+                                                85<small>%</small>
+                                            </div>
+                                        </div>
+                                        <div class="o-media__body">
+                                            <h3>Apache Kafka</h3>
+                                        </div>
+                                    </div>
+                                    <div class="c-progress-bar  o-content__body  t-border-color-bg  u-mt-text">
+                                        <div class="a-progress-bar  c-progress-bar__filler  t-primary-bg" data-percent="85"></div>
+                                    </div>
+                                </div>
+                            </div><!-- /o-grid__col -->
+
+                            <div class="o-grid__col-sm-6">
+                                <div class="o-content">
+                                    <div class="o-media  o-media--block">
+                                        <div class="o-media__figure">
+                                            <div class="c-number  t-primary-color">
+                                                80<small>%</small>
+                                            </div>
+                                        </div>
+                                        <div class="o-media__body">
+                                            <h3>Terraform &amp; IaC</h3>
+                                        </div>
+                                    </div>
+                                    <div class="c-progress-bar  o-content__body  t-border-color-bg  u-mt-text">
+                                        <div class="a-progress-bar  c-progress-bar__filler  t-primary-bg" data-percent="80"></div>
+                                    </div>
+                                </div>
+                            </div><!-- /o-grid__col -->
+
+                            <div class="o-grid__col-sm-6">
+                                <div class="o-content">
+                                    <div class="o-media  o-media--block">
+                                        <div class="o-media__figure">
+                                            <div class="c-number  t-primary-color">
+                                                80<small>%</small>
+                                            </div>
+                                        </div>
+                                        <div class="o-media__body">
+                                            <h3>Databricks &amp; CI/CD</h3>
+                                        </div>
+                                    </div>
+                                    <div class="c-progress-bar  o-content__body  t-border-color-bg  u-mt-text">
+                                        <div class="a-progress-bar  c-progress-bar__filler  t-primary-bg" data-percent="80"></div>
+                                    </div>
+                                </div>
+                            </div><!-- /o-grid__col -->
+
+                            <div class="o-grid__col-sm-6">
+                                <div class="o-content">
+                                    <div class="o-media  o-media--block">
+                                        <div class="o-media__figure">
+                                            <div class="c-number  t-primary-color">
+                                                85<small>%</small>
+                                            </div>
+                                        </div>
+                                        <div class="o-media__body">
+                                            <h3>Data Modeling &amp; Governance</h3>
+                                        </div>
+                                    </div>
+                                    <div class="c-progress-bar  o-content__body  t-border-color-bg  u-mt-text">
+                                        <div class="a-progress-bar  c-progress-bar__filler  t-primary-bg" data-percent="85"></div>
+                                    </div>
+                                </div>
+                            </div><!-- /o-grid__col -->
+
+                            <div class="o-grid__col-sm-6">
+                                <div class="o-content">
+                                    <div class="o-media  o-media--block">
+                                        <div class="o-media__figure">
+                                            <div class="c-number  t-primary-color">
+                                                80<small>%</small>
+                                            </div>
+                                        </div>
+                                        <div class="o-media__body">
+                                            <h3>Observability &amp; DataDog</h3>
+                                        </div>
+                                    </div>
+                                    <div class="c-progress-bar  o-content__body  t-border-color-bg  u-mt-text">
+                                        <div class="a-progress-bar  c-progress-bar__filler  t-primary-bg" data-percent="80"></div>
+                                    </div>
+                                </div>
+                            </div><!-- /o-grid__col -->
+
+                        </div><!-- /o-grid -->
+
+                    </div><!-- /o-section__content -->
+
+
